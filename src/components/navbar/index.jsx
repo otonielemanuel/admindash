@@ -17,13 +17,14 @@ export default function index({ sidebarOpen, openSidebar}) {
         </styles.NavLeft>
 
         <styles.NavRight>
+          {/* 
             <a href="#">
                 <AiOutlineSearch />
             </a>
 
             <a href="#">
                 <AiOutlineClockCircle />
-            </a>
+            </a> */}
 
             <a href="#">
                 <styles.Avatar src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="Avatar" width='40' />
