@@ -2,6 +2,7 @@ import styled from "styled-components";
 import { GrFormClose } from 'react-icons/gr'
 
 export const IdSidebar = styled.div`
+    position: fixed;
     background: #020509;
     height: 100vh;
     grid-area: sidebar;
