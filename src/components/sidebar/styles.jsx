@@ -3,7 +3,7 @@ import { GrFormClose } from 'react-icons/gr'
 
 export const IdSidebar = styled.div`
     background: #020509;
-    height: 100%;
+    height: 100vh;
     grid-area: sidebar;
     overflow-y: auto;
     padding: 20px;
